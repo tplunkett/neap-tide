@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/tplunkett/neap-tide#readme",
   "bin": {
-    "github-pages-commit": "bin/commit.js"
+    "github-pages-commit": "bin/commit.js",
+    "github-pages-push": "bin/push.js",
+    "github-pages-deploy": "bin/deploy.js"
   },
   "dependencies": {
     "shelljs": "^0.5.1"
